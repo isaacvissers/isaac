@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/isaac/static/css/main.f855e6bc.css",
+    "main.js": "/isaac/static/js/main.886e6c3e.js",
+    "static/js/453.3acc2cf7.chunk.js": "/isaac/static/js/453.3acc2cf7.chunk.js",
+    "static/media/logo.svg": "/isaac/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/isaac/index.html",
+    "main.f855e6bc.css.map": "/isaac/static/css/main.f855e6bc.css.map",
+    "main.886e6c3e.js.map": "/isaac/static/js/main.886e6c3e.js.map",
+    "453.3acc2cf7.chunk.js.map": "/isaac/static/js/453.3acc2cf7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.886e6c3e.js"
+  ]
+}
